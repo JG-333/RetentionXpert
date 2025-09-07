@@ -1,5 +1,5 @@
 ### RetentionXpert  
-*Turning Data Into Actionable Retention Strategies*
+*Turning Consumer Data Into Actionable Retention Strategies*
 
 ---
 
